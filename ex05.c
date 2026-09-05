@@ -1,4 +1,4 @@
-/* EX04
+/* EX05
 Leia 10 números inteiros. Em seguida, solicite ao usuário um valor a ser procurado no vetor.
 a) A função deve retornar a posição em que o elemento foi encontrado. b) Caso o valor não exista, retorne -1. c) Mostre uma mensagem adequada no programa principal.
 */
